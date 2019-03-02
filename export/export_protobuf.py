@@ -1,9 +1,9 @@
 ##### global definition 
-path_binnavi    = "/home/monty/tools/platform/binnavi/target/"
-path_dependency = "/home/monty/Desktop/gueb/"+"/dependency/"
+path_binnavi    = "/home/dungnguyen/binnavi/target"
+path_dependency = "/home/dungnguyen/gueb/"+"/dependency/"
 
 binnavi_host        = 'localhost'
-binnavi_db_name     = 'GUEB-bin6-ida68'
+binnavi_db_name     = 'postgres'
 binnavi_db_username = 'postgres'
 binnavi_db_password = 'admin'
 binnavi_collab_name = 'Monty'
